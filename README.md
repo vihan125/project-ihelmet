@@ -20,6 +20,8 @@ Monitoring and management of workers from the control unit .
 ### Sensor node
 
 Sensor node is the part which will toxic gases around the worker and also the dust concentration. The gases sensor node will detect are methane(CH4), ammonia(NH3) and carbon monoxide(CO) If toxic gas concentration and dust concentration is higher than a certain threshold it will send a message to the control center saying that this particular worker is not in a safe area and also an alarm will start to ring in the workers helmet as well. And also if the worker face an accident inside the mine he can ask for help from the control center by pressing the emergency button in the sensor node. 
+ In this project I designed a simple sensor node design using solidworks and get printed it using makerbot 3D printing machine.
+ 
 
 ### Communication protocol
 
